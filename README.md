@@ -1,3 +1,4 @@
+```json
 {
 "editor.fontFamily": "Fira Code",
 // "editor.fontFamily": "Fragment Mono",
@@ -48,3 +49,4 @@
 "database-client.autoSync": true,
 "workbench.startupEditor": "none"
 }
+```
