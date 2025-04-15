@@ -1,7 +1,3 @@
-# VSCode-Smooth-Setup
-My personal VS Code setup – tidy, minimal, and developer-friendly. ✨
-
-
 {
 "editor.fontFamily": "Fira Code",
 // "editor.fontFamily": "Fragment Mono",
